@@ -1,7 +1,7 @@
 # Just my config files for i3wm and polybar 
 
-Also, it contain my own scripts to show information in polybar. Check some screenshots of my system using this setup. Please note there are
-many dependencies for both i3/config and polybar/config files to work. Please check the files first in order to accomodate them.
+Also, it contains my own scripts to show information in polybar. Check some screenshots of my system using this setup. Please note there are
+many dependencies for both i3/config and polybar/config files to work which you must accomodate before running this configuration. Just check both files.
 
 # My Desktop
 
