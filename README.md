@@ -1,7 +1,7 @@
 # Just my config files for i3wm and polybar 
 
 Also, it contains my own scripts to show information in polybar. Below follow some screenshots of my system using this setup. Please note there are
-many dependencies for both i3/config and polybar/config files to work which you must accomodate before running this configuration. Almost forgot, you need Nerdfonts to render the icons in both i3 and polybar config files.
+many dependencies for both i3/config and polybar/config files to work which you must accomodate before running this configuration. Almost forgot, you need Nerdfonts to render the icons present in both i3 and polybar config files.
 
 # My Desktop
 
