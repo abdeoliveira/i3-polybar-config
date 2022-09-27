@@ -17,5 +17,13 @@ Also, it contain my own scripts to show information in polybar. Check some scree
 
 ![alt text](screenshots/print5.png "Battery Level") 
 
+# Auto Toggle Light/Dark mode
+
+Something I am happy to have accomplisehd is my code for Auto Dark Mode at night and Light Mode during the day (check the myautodar.rb code into scripts). Check some prints below with Dark Mode on.
+
+![alt text](screenshots/print6.png "Desktop in Dark Mode")
+
+![alt text](screenshots/print7.png "Calendar in Dark Mode")
+
 
 
