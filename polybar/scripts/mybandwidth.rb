@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-delta_time = 1.0 #ARGV[1].to_f #seconds
+delta_time = 0.5 
 iface = ARGV[0] 
 megabyte   = 1024 * 1024
 kilobyte = 1024

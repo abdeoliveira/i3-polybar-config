@@ -11,7 +11,7 @@ def toggle(mode,service)
     foreground = '#212121'
   end
   if service == 'battery'
-    geometry = '-geometry 20x2-10+30'
+    geometry = '-geometry 40x3-10+30'
     `xterm -bg '#{background}' -fg '#{foreground}' #{font} #{geometry} -e 'echo "Battery Level: $(cat /sys/class/power_supply/BAT0/capacity)%" && sleep 5'`
   end
   if service == 'wifi'
